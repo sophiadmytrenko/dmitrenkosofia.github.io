@@ -1,0 +1,26 @@
+body {
+	min-width: 480px;
+	width: 100%;
+	height: 100%;
+	background-image: url(image/img1.png);
+	background-repeat: repeat-y;
+}
+header {
+	text-align: center;
+	padding: 15px;
+	width: 20%; 
+    height: 100%;
+}
+.container {
+	min-width: 480px;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+	align-content: space-around;
+}
+footer {
+	text-align: center;
+	padding: 15px;
+	width: 20%;
+}
