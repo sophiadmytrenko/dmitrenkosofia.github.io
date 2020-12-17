@@ -41,28 +41,5 @@ footer {
 	width: 100%;
 	margin: auto;
 	padding-left: 10px;
+	position: static;
 }
-@media (min-width: 390px){
-	body {
-		width: 390px;
-	}
-	header {
-		width: 480px;
-		font-size: 14px;
-	}
-	main {
-		width: 480px;
-		font-size: 14px;
-	}
-	div {
-		width: 300px;
-		font-size: 14px;
-	}
-	aside {
-		width: 90px;
-		font-size: 14px;
-	}
-	footer {
-		width: 480px;
-		position: static;
-	}
