@@ -1,0 +1,18 @@
+{
+    "status": "true",
+    "message": "Data fetched successfully!",
+    "data": [
+        {
+            "id": "1",
+            "name": "Програмування на мові JAVA",
+            "faculty": "ФІТІС",
+            "lecturer": "Когут Анатолій Володимирович"
+        },
+        {
+            "id": "2",
+            "name": "WEB-програмування",
+            "faculty": "ФІТІС",
+            "lecturer": "Іванов Серій Петрович"
+        }
+    ]
+}
